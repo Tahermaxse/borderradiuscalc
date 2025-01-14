@@ -10,18 +10,18 @@ export const metadata: Metadata = {
   description: 'A tool to calculate and visualize border radius values',
   keywords: ['border radius', 'calculator', 'CSS tool', 'design', 'frontend'],
   authors: [
-    { name: 'Taher Hathi', url: 'https://yourwebsite.com' },
+    { name: 'Taher Hathi', url: 'https://borderadiuscalc.vercel.app/' },
   ],
   creator: 'Taher Hathi',
   publisher: 'LoomUI',
   openGraph: {
     title: 'Border Radius Calculator',
     description: 'A tool to calculate and visualize border radius values',
-    url: 'https://yourwebsite.com',
+    url: 'https://borderadiuscalc.vercel.app/',
     siteName: 'Border Radius Calculator',
     images: [
       {
-        url: 'https://yourwebsite.com/og-image.png',
+        url: 'https://borderadiuscalc.vercel.app/og-image.png',
         width: 800,
         height: 600,
         alt: 'Border Radius Calculator',
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     creator: '@taher_max_',
     title: 'Border Radius Calculator',
     description: 'A tool to calculate and visualize border radius values',
-    images:'/og-image.png'
+    images:['https://borderadiuscalc.vercel.app/og-image.png']
   },
   icons: {
     icon: '/favicon.ico',
